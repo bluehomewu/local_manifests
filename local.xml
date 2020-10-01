@@ -4,7 +4,7 @@
     <project path="device/asus/Z01R" name="bluehomewu/device_asus_Z01R" remote="github" revision="ten" />
     <project path="kernel/asus/sdm845" name="DerpFest-Devices/android_kernel_asus_sdm845" remote="github" revision="ten" />
     <project path="vendor/asus/X00QD" name="emincangencer/proprietary_vendor_asus" remote="github" revision="ten" />
-    <project path="device/asus/X00QD" name="bluehomewu/android_device_asus_X00QD" remote="github" revision="lineage-17.1" />
+    <project path="device/asus/X00QD" name="bluehomewu/android_device_asus_X00QD" remote="github" revision="havoc-ten" />
     <project path="kernel/asus/sdm660" name="emincangencer/android_kernel_asus_sdm660" remote="github" revision="ten" />
     <project path="prebuilts/gcc/linux-x86/arm/arm-eabi" name="arter97/arm32-gcc" remote="github" revision="master" clone-depth="1" /> 
     <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-elf" name="arter97/arm64-gcc" remote="github" revision="master" clone-depth="1" /> 
