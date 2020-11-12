@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="vendor/asus/Z01R" name="BlissRoms-Devices/proprietary_vendor_asus" remote="github" revision="q" />
+    <project path="vendor/asus" name="BlissRoms-Devices/proprietary_vendor_asus" remote="github" revision="q" />
     <project path="device/asus/Z01R" name="bluehomewu/device_asus_Z01R" remote="github" revision="ten" />
     <project path="kernel/asus/sdm845" name="DerpFest-Devices/android_kernel_asus_sdm845" remote="github" revision="ten" />
     <project path="vendor/asus/X00QD" name="emincangencer/proprietary_vendor_asus" remote="github" revision="ten" />
