@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="vendor/asus" name="BlissRoms-Devices/proprietary_vendor_asus" remote="github" revision="q" />
-    <project path="device/asus/Z01R" name="bluehomewu/device_asus_Z01R" remote="github" revision="ten" />
+    <project path="vendor/asus" name="5z-devs/proprietary_vendor_asus" remote="github" revision="11" />
     <project path="kernel/asus/sdm845" name="DerpFest-Devices/android_kernel_asus_sdm845" remote="github" revision="ten" />
-    <project path="vendor/asus/X00QD" name="emincangencer/proprietary_vendor_asus" remote="github" revision="ten" />
-    <project path="device/asus/X00QD" name="bluehomewu/android_device_asus_X00QD" remote="github" revision="havoc-ten" />
-    <project path="kernel/asus/sdm660" name="emincangencer/android_kernel_asus_sdm660" remote="github" revision="ten" />
+    <project path="vendor/asus/X00QD" name="ASUS-ZenFone-5-Devlopment/proprietary_vendor_asus" remote="github" revision="eleven" />
+    <project path="device/asus/X00QD" name="ASUS-ZenFone-5-Devlopment/android_device_asus_X00QD_Edward" remote="github" revision="eleven" />
+    <project path="kernel/asus/sdm660" name="ASUS-ZenFone-5-Devlopment/android_kernel_asus_sdm660" remote="github" revision="eleven" />
     <project path="prebuilts/gcc/linux-x86/arm/arm-eabi" name="arter97/arm32-gcc" remote="github" revision="master" clone-depth="1" /> 
     <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-elf" name="arter97/arm64-gcc" remote="github" revision="master" clone-depth="1" /> 
 </manifest>
