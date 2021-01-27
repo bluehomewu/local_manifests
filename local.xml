@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="vendor/asus" name="5z-devs/proprietary_vendor_asus" remote="github" revision="11" />
+    <project path="vendor/asus/Z01R" name="bluehomewu/proprietary_vendor_asus" remote="github" revision="11" />
     <project path="kernel/asus/sdm845" name="DerpFest-Devices/android_kernel_asus_sdm845" remote="github" revision="ten" />
     <project path="vendor/asus/X00QD" name="ASUS-ZenFone-5-Devlopment/proprietary_vendor_asus" remote="github" revision="eleven" />
     <project path="device/asus/X00QD" name="ASUS-ZenFone-5-Devlopment/android_device_asus_X00QD_Edward" remote="github" revision="eleven" />
